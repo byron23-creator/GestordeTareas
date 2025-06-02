@@ -11,8 +11,8 @@
 
 ## Requisitos
 
-* Node.js (versión 14 o superior recomendada)
-* npm (viene incluido con Node.js)
+* Node.js 
+* npm 
 
 ## Instalación
 
